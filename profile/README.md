@@ -2,7 +2,7 @@
 
 <br />
 
-# 🍴 GastroMatch
+#  GastroMatch
 
 ### Cozinhe o que você já tem em casa.
 
