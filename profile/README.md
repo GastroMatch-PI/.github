@@ -11,9 +11,9 @@ Explore sem cadastro, siga o passo a passo e descubra quem cozinha por trás de 
 
 <br />
 
-[![Site](https://img.shields.io/badge/ver%20o%20site-ff6a1a?style=for-the-badge&logo=vercel&logoColor=1a0a03&labelColor=0a0807)](https://gastromatch-front.vercel.app)
-[![Repositório](https://img.shields.io/badge/repositório-0a0807?style=for-the-badge&logo=github&logoColor=ff6a1a)](https://github.com/GastroMatch-PI/GastroMatch)
-[![Projeto](https://img.shields.io/badge/quadro%20do%20projeto-0a0807?style=for-the-badge&logo=github&logoColor=ff6a1a)](https://github.com/orgs/GastroMatch-PI/projects/1)
+<a href="https://gastromatch-front.vercel.app"><img src="https://raw.githubusercontent.com/GastroMatch-PI/.github/main/profile/assets/btn-site.svg" alt="Ver o site" height="44"></a>
+<a href="https://github.com/GastroMatch-PI/GastroMatch"><img src="https://raw.githubusercontent.com/GastroMatch-PI/.github/main/profile/assets/btn-repo.svg" alt="Repositório" height="44"></a>
+<a href="https://github.com/orgs/GastroMatch-PI/projects/1"><img src="https://raw.githubusercontent.com/GastroMatch-PI/.github/main/profile/assets/btn-projeto.svg" alt="Quadro do projeto" height="44"></a>
 
 <br />
 
@@ -23,7 +23,7 @@ Explore sem cadastro, siga o passo a passo e descubra quem cozinha por trás de 
 
 ## O que o GastroMatch faz
 
-| | |
+| Recurso | Como funciona |
 |---|---|
 | 🧊 **Na geladeira** | Escolha os ingredientes que você tem e veja as receitas que cabem neles. |
 | 📖 **Passo a passo guiado** | Etapas em ordem, com cronômetro, vídeo e dicas de chefs. |
@@ -32,17 +32,15 @@ Explore sem cadastro, siga o passo a passo e descubra quem cozinha por trás de 
 
 ## Stack
 
-<div align="left">
-
-![React](https://img.shields.io/badge/React-0a0807?style=flat-square&logo=react&logoColor=ff6a1a)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0807?style=flat-square&logo=typescript&logoColor=ff6a1a)
-![Tailwind](https://img.shields.io/badge/Tailwind-0a0807?style=flat-square&logo=tailwindcss&logoColor=ff6a1a)
-![Vite](https://img.shields.io/badge/Vite-0a0807?style=flat-square&logo=vite&logoColor=ff6a1a)
-![Java](https://img.shields.io/badge/Java-0a0807?style=flat-square&logo=openjdk&logoColor=ff6a1a)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0a0807?style=flat-square&logo=springboot&logoColor=ff6a1a)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0807?style=flat-square&logo=postgresql&logoColor=ff6a1a)
-
-</div>
+<p>
+  <img src="https://raw.githubusercontent.com/GastroMatch-PI/.github/main/profile/assets/stack-react.svg" alt="React" height="28">
+  <img src="https://raw.githubusercontent.com/GastroMatch-PI/.github/main/profile/assets/stack-typescript.svg" alt="TypeScript" height="28">
+  <img src="https://raw.githubusercontent.com/GastroMatch-PI/.github/main/profile/assets/stack-tailwind.svg" alt="Tailwind CSS" height="28">
+  <img src="https://raw.githubusercontent.com/GastroMatch-PI/.github/main/profile/assets/stack-vite.svg" alt="Vite" height="28">
+  <img src="https://raw.githubusercontent.com/GastroMatch-PI/.github/main/profile/assets/stack-java.svg" alt="Java" height="28">
+  <img src="https://raw.githubusercontent.com/GastroMatch-PI/.github/main/profile/assets/stack-spring.svg" alt="Spring Boot" height="28">
+  <img src="https://raw.githubusercontent.com/GastroMatch-PI/.github/main/profile/assets/stack-postgres.svg" alt="PostgreSQL" height="28">
+</p>
 
 ## Como contribuir
 
